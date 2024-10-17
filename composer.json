@@ -1,0 +1,25 @@
+{
+
+    "name": "kytzian/saludo",
+    "description": "Libreria Saludo v1.0.0 en PHP para generar saludos by KytZiaN",
+    "authors": [
+    {
+    "name":"KytZiAN dark labs",
+    "email": "halujah@gmail.com",
+    "homepage": "http://www.saludo.com"
+    
+    }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+    "php":">=7.4"
+    },
+    "autoload": {
+    "psr-4": {
+    "Saludo\\Saludo\\": "src/"
+    }
+    }
+    
+    }
